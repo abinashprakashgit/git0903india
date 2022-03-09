@@ -7,6 +7,15 @@ public class Company  {
 	public Company(String name) {
 		this(2001);
 		System.out.println("Company Name:"+ name);
+		
+		
+		
+		
+		
+		
+		
+		
+		System.out.println("hi how are you");
 	}
 	public Company(int year) {
 		this();
