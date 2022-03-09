@@ -2,7 +2,7 @@ package org.cts;
 
 public class Company  {
 	public Company() {
-		System.out.println("IM a default Company");
+		System.out.println("IM a Company default Company");
 	}
 	public Company(String name) {
 		this(2001);
